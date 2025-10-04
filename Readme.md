@@ -26,50 +26,37 @@
 
 ## Books
 
-- [Web Audio API by Boris Smus](http://chimera.labs.oreilly.com/books/1234000001552/index.html)
+- [Web Audio API by Boris Smus](https://www.oreilly.com/library/view/web-audio-api/9781449332679/) - A comprehensive guide to the Web Audio API, introducing digital audio concepts and demonstrating how to solve audio problems in web applications.
 
 ## Downloads
 
-- [Soundwhich](http://soundwhich.com/)
-- [Beeple's resource (inspirational C4D "open source" files)](http://www.beeple-crap.com/resources.php)
-- [Freesound](http://freesound.org/)
-- [Audio Jungle](http://audiojungle.net/)
-- [Six Bit Deep](http://www.sixbitdeep.com/shop/)
-- [Samplephonics - Free Stuff](http://store.samplephonics.com/collections/free-stuff-1)
-- [Wave Alchemy](http://www.wavealchemy.co.uk/free-samples/)
-- [Audio Animals](http://www.audioanimals.co.uk/shop-categories/sample-shop)
-- [Bed Room Producers Blog](http://bedroomproducersblog.com/free-samples/)
-- [Free Music Archive](http://freemusicarchive.org/)
-- [Music Radar](http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820)
-- [How to Make Eletronic Music Freebies](http://howtomakeelectronicmusic.com/category/freebies)
-- [Motion Sound](http://motionsound.io/)
+- [Beeple's resource](http://www.beeple-crap.com/resources.php) - Free Cinema4D project files and VJ loops for educational and commercial use.
+- [Freesound](http://freesound.org/) - A collaborative database of Creative Commons licensed sounds.
+- [Audio Jungle](http://audiojungle.net/) - A marketplace for royalty-free music and sound effects.
+- [Samplephonics - Free Stuff](http://store.samplephonics.com/collections/free-stuff-1) - A collection of free, royalty-free samples, loops, and presets.
+- [Wave Alchemy](http://www.wavealchemy.co.uk/free-samples/) - A collection of free drum samples, music loops, and sound effects.
+- [Audio Animals](https://www.audioanimals.co.uk/product-category/sample-shop) - A sample shop with free and premium sample packs, including percussion, vocals, and VST presets.
+- [Bedroom Producers Blog](http://bedroomproducersblog.com/free-samples/) - A blog that features free sample packs, sound libraries, and VST plugins.
+- [Free Music Archive](http://freemusicarchive.org/) - An online repository of royalty-free music.
+- [Music Radar](http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820) - A large collection of free, royalty-free music samples.
+- [How to Make Electronic Music Freebies](http://howtomakeelectronicmusic.com/category/freebies) - A blog that shares free sample packs, tutorials, and other resources for electronic music production.
+- [Motion Sound](http://motionsound.io/) - A sound library with a focus on motion graphics, offering a free sound pack for newsletter subscribers.
 
 ## Experiments
 
 - [Audible Visuals](https://soniaboller.github.io/audible-visuals/) - Collection of visualizers derived from the Archimedean spiral.
-- [Moire](http://hughsk.io/moire-1/) - A Web Audio / WebGL visualisation.
-- [Finding Love](https://findinglove.activetheory.net/) - fully interactive, Virtual Reality story that transforms emotions into art.
-- [Mubert](http://play.mubert.com/en/) - World's first online music composer
-- [Tangled](http://netlabelday2016.yarnaudio.com/) - Audio-visual release by Berlin based netlabel Yarn Audio, visuals made in [cables](https://cables.gl/). Drag to rotate, scroll to zoom.
-- [Luis Henrique Bizarro Portfolio](https://lhbzr.com/) - Portfolio with experiments using Three.JS and GSLS.
-- [Triangles](https://willianjusten.com.br/audio-experiments/triangles/) - An experiment using triangles in Canvas.
-- [Adventure Machine](http://www.madeon.fr/adventuremachine/) - Campaign for Madeon's "Adventure" album.
+- [Finding Love](https://findinglove.activetheory.net/) - A fully interactive, Virtual Reality story that transforms emotions into art.
+- [Mubert](https://mubert.com/play) - An AI-powered music generator that creates infinite soundtracks for any moment.
+- [Luis Henrique Bizarro Portfolio](https://lhbzr.com/) - Portfolio with experiments using Three.JS and GLSL.
+- [Adventure Machine](http://www.madeon.fr/adventuremachine/) - An interactive music video for Madeon's "Adventure" album that lets you mix samples.
 - [BBNG](https://uberviz.io/viz/bbng/) - WebGL Visualizer for "Confessions" (feat. Leland Whitty) by BADBADNOTGOOD.
-- [Born in the Echoes](http://bornintheechoes.com/) - Campaign for The Chemical Brothers' "Born in the Echoes" album.
-- [Chrome Music Lab](https://musiclab.chromeexperiments.com/) - Play with simple experiments and explore how music works.
-- [DENNIS](http://www.dennis.video/) - An interactive and audio responsive music video for "Dennis" by popcorn_10's.
-- [Fluctus](http://jojo.ninja/fluctus/) - Experimental 3D Audio Visualizer by Jordan Machado.
-- [George & Jonathan III](http://www.georgeandjonathan.com/) - Campaign for George & Jonathan's "III" album.
-- [Goy Goy](http://goy-goy.herokuapp.com/) - A multiplayer Chrome Experiment made with HTML5 Canvas, socket.io and audiolet.js.
+- [Chrome Music Lab](https://musiclab.chromeexperiments.com/) - A website that makes learning music more accessible through fun, hands-on experiments.
 - [Lantern](https://www.uberviz.io/viz/lantern/) - WebGL Visualizer for "Lantern" by SBTRKT.
-- [Lines](http://labs.fluuu.id/lines/) - Visualising Joy Division album cover as a music spectrum by Silvio Paganini.
+- [Lines](http://labs.fluuu.id/lines/) - Visualising Joy Division's "Unknown Pleasures" album cover as a music spectrum.
 - [Nero](https://www.uberviz.io/viz/nero/) - WebGL Visualizer for "In The Way" by Nero.
-- [OMM](http://ommexperience.com/) - An interactive audio visual experience exploring creativity.
 - [Pareidolia](https://www.uberviz.io/viz/pareidolia/) - WebGL Visualizer for "Szerencsétlen" by Venetian Snares.
-- [Soundviz](http://work.bartekdrozdz.com/soundviz/) - 5 different sound visualization effects with Leap Motion interactivity.
-- [Splice](https://www.uberviz.io/viz/splice/) - A realtime interactive music visualizer using time-code data from Splice's upcoming visualizer API.
-- [Typatone](http://www.typatone.com/) - Make music while you write.
-- [Yume](http://unseen-music.com/yume/) - Campaign for Helios' "Yume" album.
+- [Splice](https://www.uberviz.io/viz/splice/) - A realtime interactive music visualizer using time-code data from Splice's visualizer API.
+- [Typatone](http://www.typatone.com/) - A tool that turns your typing into music.
 - [Spins](http://mattdesl.github.io/spins/) - Audio Visualizer rendering Waveforms in Polar Coordinates by Matt DesLauriers.
 - [Silk](http://mattdesl.github.io/codevember/21.html) - 3D Audio Visualizer by Matt DesLauriers.
 - [Wave](http://mattdesl.github.io/codevember/3.html) - 3D Audio Visualizer by Matt DesLauriers.
@@ -77,77 +64,50 @@
 - [Beatgrid](http://mattdesl.github.io/codevember/8.html) - Experiment using Audio Beat Detection by Matt DesLauriers.
 - [Party](http://mattdesl.github.io/codevember/13.html) - 2D Audio Visualizer by Matt DesLauriers.
 - [Word Problems](https://www.uberviz.io/viz/word-problems/) - WebGL Visualizer for "Word Problems" by Harmonic 313.
-- [Here Comes The Sun](http://shiz.co/beatlescode/) - A visual representation of The Beatles' song "Here Comes The Sun" dynamically generated by an algorithm developed with Processing and Processing.js. By Marcio Ribeiro.
-- [Audio Cloud](http://ma77os.cc/lab/audio-cloud/) - A reactive particle system based on audio analysis of Fast Fourier Transform spectrum.
-- [Glitch](http://naivesound.com/glitch/) - An algorithmic synthesizer to make music from math.
-- [105 Birthday Clara Rockmore](http://www.google.com/doodles/clara-rockmores-105th-birthday) - A Doodle for the Birthday of Clara Rockmore.
+- [Glitch](https://github.com/naivesound/glitch) - An algorithmic synthesizer to make music from math.
+- [105 Birthday Clara Rockmore](https://doodles.google/doodle/clara-rockmores-105th-birthday/) - A Doodle for the Birthday of Clara Rockmore.
 - [Fireworks with WebGL](http://ondras.github.io/fireworks-webgl/) - Sound driven fireworks by Ondřej Žára.
-- [Tonalhub](https://alemangui.github.io/Tonalhub/?user=webaudio&repository=web-audio-api) - Create music from your github repository by Alejandro Mantecon Guillen.
-- [Glowsynth - just amazing!](http://outputchannel.com/glowsynth/) - Play with your mouse, Qwerty keyboad, or MIDI keyboard and watch as the lights dance to your music.
+- [Glowsynth](http://outputchannel.com/glowsynth/) - A synthesizer that you can play with your mouse, keyboard, or MIDI controller.
 - [Mmorph](http://mmorph.massivemusic.com/) - An adventure into new ways of delivering interactive music in the browser and beyond.
-- [Play a cornet to Donald Trump](http://trumpdonald.org/) - A funny site to play a cornet to Donald Trump by Animal Agency.
-- [Loop Waveform Visualizer](https://airtightinteractive.com/demos/js/reactive/) - WebGL Visualizer for Screw Base by Beytah.
-- [Bohemian Rhapsichord](http://static.echonest.com/BohemianRhapsichord/index.html) - A web app that turns the song Bohemian Rhapsody into a musical instrument by Paul Lamere.
+- [Loop Waveform Visualizer](https://airtightinteractive.com/demos/js/reactive/) - A WebGL visualizer that renders a waveform in a loop.
 - [Scrollsound](http://zya.github.io/scrollsound/) - Scrolling as a method of interaction with audio on the web by Ehsan Ziya.
-- [Floraldrift](http://whitevinyldesign.com/floradrift/) - Procedurally generated music and visuals.
 - [Experiment #8](http://brunoimbrizi.com/experiments/#/08) - Music Experiment by Bruno Imbrizi.
 - [Music Cube](http://www.808cube.com/) - A Chrome Experiment that combines the Roland TR-808 Drum Machine with the Rubik's Cube.
-- [Music Game - ECHO](http://tonenotone.com/ECHO/) - A challenging musical puzzle game.
+- [Music Game - ECHO](https://tonenotone.itch.io/echo) - A challenging musical puzzle game.
 - [Patatap](http://www.patatap.com/) - A portable animation and sound kit.
-- [Plink - Awesome Multiplayer Game](http://www.dinahmoelabs.com/plink) - A multiplayer music experience.
-- [Simon Says - Game](http://labs.uxmonk.com/simon-says/) - A free memory game in your browser.
-- [Soundcloud Visualizer](http://www.michaelbromley.co.uk/experiments/soundcloud-vis/#muse/undisclosed-desires) - A Canvas and Web Audio Experiment.
-- [CSS Visualizer](http://likethemammal.github.io/css-visualizer/) - Music Visualizers that are made entirely using DOM elements and CSS3.
-- [Kandinski Experiment](http://jasonsigal.cc/kandinskify/) - Music Visualizations inspired in Kandinsky.
-- [Visual Music Trailer](https://vimeo.com/160470393) - Live audio visual performance ideas.
+- [Soundcloud Visualizer](http://www.michaelbromley.co.uk/experiments/soundcloud-vis/#muse/undisclosed-desires) - A Canvas and Web Audio experiment that visualizes Soundcloud tracks.
+- [CSS Visualizer](https://github.com/likethemammal/css-visualizer) - Music Visualizers that are made entirely using DOM elements and CSS3.
 - [Draw and Music](http://rugs.grindselect.com/) - Campaign for Rugs new album by Sam Greens.
-- [Moogfest Substrate](http://www.moogfest.com/_substrate) - Experimental site to Moogfest.
-- [Flame Gradient](http://rickycodes.github.io/audio-visualizer/gradient/) - Audio visualizer built with HTML5 web audio API by rickycodes.
-- [3D Grid](http://rickycodes.github.io/audio-visualizer/three/) - Audio visualizer built with HTML5 web audio API by rickycodes.
 - [obsidian](http://mrdoob.com/files/temp/xplsv_obsidian/) - 3D Audio Visualization made by the creator of Three.js.
 - [TRIF](http://trif.it/) - GIF-based online radio visualization using webaudio API and raw CSS
-- [Garbage Collector](http://robertbue.no/playground/webgl/gc-effect/) - Audio visualization experiment made with Three.js and some post-processing.
-- [Audiograph](http://audiograph.xyz/) - Amazing audio visualization made by Matt DesLauriers.
-- [Happy Monday](http://makiopolis.com/everyday/026/) - Musical experiment using THREE.MeshLine by David Ronai.
-- [D159](http://www.simppa.fi/demo/d159/) - Audio visualization for "gloom" shown at NVScene 2015 by Simo Santavirta.
-- [Restless Earth](http://restless.earth/) - Audio visualization for "Restless Earth".
+- [Audiograph](http://audiograph.xyz/) - A visual exploration of Pilotpriest's 2016 album, TRANS.
+- [D159](https://demozoo.org/productions/135072/) - Audio visualization for "gloom" shown at NVScene 2015 by Simo Santavirta.
 - [Scribble Audio](http://scribble.audio/) - Draw loops of sound with this web synthesizer.
 - [Touchpianist](http://touchpianist.com/) - play a piano and look all animations along the screen.
 - [PartyMode](https://preziotte.com/partymode/) - An experimental music visualizer using d3.js and the web audio api.
-- [Arkade London](http://arkade.london/) - Arkade London is a pure personal and experimental webVJ fan art.
 - [DJi](http://jieverson.com/DJi/) - Clean music visualizer from SoundCloud or self uploaded.
-- [Braille Face: Kōya](https://koya.brailleface.co/) - Navigate a unique interactive environment in your browser while listening to Kōya, the debut album from Melbourne musician Braille Face.
 - [VR Ondes Martenot](https://github.com/elifer5000/vr-ondes-martenot) - A playable rendition of the Ondes Martenot in Virtual Reality.
-- [Popcorn](http://hughsk.io/popcorn/) - Little audio-reactive sketch by Hugh Kennedy.
-- [Beat](http://experiments.kevinboudot.me/canvas-beat/) - Beat is a HTML5 audio/canvas experiment inspired by Propellerheads Figure iOS App.
-- [Dancing Torus](http://dancing-torus.s3-website-us-east-1.amazonaws.com/) - Dancing Torus is a WebGL Audio Reactive experience. Choose your favourite song on Soundcloud and start dancing!
-- [Audible Visuals](https://soniaboller.github.io/audible-visuals/) - Collection of visualizers derived from the archimedean spiral by Sonia Boller.
 - [Musical Interactions](https://tympanus.net/Development/MusicalInteractions/) - Some experimental ideas for playful musical interactions.
-- [Polyrhythm](http://www.petervandernoord.nl/polyrhythm/) - An interactive exploration of polyrythmic rhythms.
-- [ClubberToy](https://wizgrav.github.io/clubber/) Several shadertoys, rewired with clubber, bundled as a vj app.
-- [Andantino](https://alpcanaydin.github.io/andantino/) Listen some notes and try to find same notes on the keyboard.
-- [Vissonance](https://tariqksoliman.github.io/Vissonance/) A collection of audio visualizers built in THREE.js.
-- [M A I L M A N](http://mailman.acervo.io/) Interactive music video by Bruno Imbrizi for a song called Mailman by Soundgarden.
-- [HTML5 Audio Visualizer Video Maker](https://isaiah658.github.io/) Pick your music, background image, customize the visualizer the way you want it, and have the visualizer be recorded all right in your web browser.
+- [Andantino](https://github.com/alpcanaydin/andantino) - A game that lets people know if they are a tone-deaf or not.
+- [Vissonance](https://tariqksoliman.github.io/Vissonance/) - A collection of audio visualizers built in THREE.js.
 - [3d Particles Music Visualiser](https://chardos.github.io/music_viz/) Music visualiser done in Three.js by Richard Tan
 - [ShowCQTBar](https://mfcc64.github.io/html5-showcqtbar/) - Audio spectrum visualization with musical scale.
-- [Weekly Music Visualizations](https://github.com/surayashivji/WeeklyGraphics) Weekly music visualization experiments built with Three.js and p5.js by Suraya Shivji.
 - [Audio Visualizer](https://github.com/Teoxoy/audio-visualizer) - An interesting web audio visualizer built with Pixi.js.
 
 ## Experiments on Codepen
 
 - [SVG Animated Drum Kit](http://codepen.io/iamjoshellis/full/KVdQqm/) - Play an amazing Drum made with SVG and realistic sounds by @iamjoshellis.
 - [SVG Animated Guitar](http://codepen.io/iamjoshellis/full/qbBKZB/) - Play an amazing Guitar made with SVG and realistic sounds by @iamjoshellis.
-- [Audio Visualizer](http://codepen.io/Francext/full/yIogq/) - Abstract Audio Visualizer using Three.js by Francesco Trillini
+- [Audio Visualizer](https://codepen.io/Francext/full/ndqaqb) - Abstract Audio Visualizer using Three.js by Francesco Trillini
 - [Awesome Audio Player](http://codepen.io/alexpierre/full/RNELPV/) - Radial Audio Player constructed by lines of frequency and amplitude by Alex Permyakov
 - [Wireframes](http://codepen.io/pat_hg/full/gamQwr/) - Wireframe WebGL Animation with Three.js by Patrick Heng
 - [Soundcloud Vinyl Search](http://codepen.io/chrisgannon/full/GpwqgG/) - An amazing experiment creating a realistic Vinyl player using DrawSVG and GSAP by Chris Gannon.
 - [Gooey Effect Audio](http://codepen.io/enjikaka/full/QbJmRJ/) - Upload your mp3 and visualize the song with this crazy effect by Jeremy Karlsson.
 - [CSS Audio Visualizer](http://codepen.io/njmcode/full/WbWyWz/) - Using audio frequency data from a hidden video to apply CSS scaling by Neil McCallion.
-- [Storytelling with Html5 + CSS3](http://codepen.io/rachelnabors/full/rCost/) - A great example of how to use music to create a Storytelling by Rachel Nabors.
+- [Storytelling with Html5 + CSS3](https://codepen.io/rachelnabors/full/kyyrOb) - A great example of how to use music to create a Storytelling by Rachel Nabors.
 - [Step sequencer](http://codepen.io/woodwork/full/rxrLqa/) - Create music with this sequencer by Joe Harry.
 - [WebGL Soundcloud Visualizer using Three.js](http://codepen.io/luigimannoni/full/xbLgqB) - ThreeJS/WebGL Soundcloud player/visualizer based on HTML5 AudioContext API by Luigi Mannoni.
-- [Oscilator](http://codepen.io/easwee/pen/sFpmo) - Testing the oscillator node from HTML5 audio API by Anej Gorkič.
+- [Oscilator](https://codepen.io/easwee/pen/gOazOa) - Testing the oscillator node from HTML5 audio API by Anej Gorkič.
 - [Cubes Audio Visualizer](http://codepen.io/pat_hg/pen/zvMrRJ) - 10th contribution for codevember 2015 by Patrick Heng.
 - [P5 Audio Tests 33](http://codepen.io/laurent-thevenet/pen/JGeXNr) - Audio visualization using p5.js 3D elements and Soundcloud API
 - [P5 Audio Tests 27](http://codepen.io/laurent-thevenet/pen/MKJwVd) - Audio visualization using p5.js 3D elements and Soundcloud API
@@ -165,7 +125,6 @@
 - [MIDI.js](https://github.com/mudcube/MIDI.js/) - Making life easy to create a MIDI-app on the web.
 - [Beep.js](https://github.com/stewdio/beep.js) - A JavaScript toolkit for building browser-based synthesizers.
 - [p5.sound](https://github.com/processing/p5.js-sound) - Brings the Processing approach to Web Audio and p5.js.
-- [Audiolet](https://www.jhtrnr.com/Audiolet/) - A JavaScript library for real-time audio synthesis and composition.
 - [coffee-collider](https://www.npmjs.com/package/coffee-collider) - A language for real time audio synthesis and algorithmic composition in HTML5.
 - [audio-render](https://github.com/audio-lab/render) - A pass-through audio stream, providing structure for rendering stream audio data.
 - [Octavian](https://github.com/stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals
@@ -183,7 +142,7 @@
 - [Web Audio Extension](https://github.com/spite/WebAudioExtension) - A Chrome extension to play with Web Audio.
 - [Cinder](https://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding in C++.
 - [Processing](https://www.processing.org/) - An open source programming language and integrated development environment built for the electronic arts, new media art, and visual design communities.
-- [HYPE_processing](http://www.hypeframework.org/) - Collection of Processing classes that performs heavy lifting tasks while using a minimal amount of code writing.
+- [HYPE_processing](https://github.com/hype/HYPE_Processing) - Collection of Processing classes that performs heavy lifting tasks while using a minimal amount of code writing.
 - [The Force](https://github.com/shawnlawson/The_Force) - Live coded shader editing with audio input.
 - [Hylogen](https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
 - [Peaks.js](https://www.npmjs.com/package/peaks.js) - Modular client-side JavaScript component designed for the display of and interaction with audio waveform material in the browser.
@@ -203,57 +162,50 @@
 - [Jason Sigal](https://github.com/therewasaguy) - Creative Coder in residence at NYU's and creator of web audio library for p5.js.
 - [Shawn Lawson](http://shawnlawson.com/) - An experiential media artist creating the computational sublime.
 - [Matt DesLauriers](https://github.com/mattdesl) - Creative coder at Jam 3.
-- [Patrick Heng](http://hengpatrick.fr/) - Creative front-end developer. Studied at Hetic and Gobelins and works at Grouek.
+- [Patrick Heng](https://patrickheng.com/) - Creative front-end developer. Studied at Hetic and Gobelins and works at Grouek.
 - [Mat Preziotte](https://preziotte.com/) - Absurd music visualizations and generative art.
 - [Yannis Gravezas](https://github.com/wizgrav) - A creative coder with several projects featured in chrome experiments, fwa and elsewhere.
 
 ## Tutorials
 
-- [Kadenze - Courses about Sound and Creative Process](https://www.kadenze.com/courses)
-- [MDN - Basic concepts behind Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Basic_concepts_behind_Web_Audio_API)
-- [Understanding AudioParams: Precision control of web audio nodes](http://www.soundesign.info/2016/02/07/understanding-audioparams-precision-control-web-audio-nodes/)
-- [Making An Interactive Music Video With WebGL](https://medium.com/@superhighfives/making-a-music-video-f60757ceb4cf#.j72rbcxgk)
-- [Exploring the web audio api with d3](http://blog.scottlogic.com/2016/01/06/audio-api-with-d3.html)
-- [Getting Started with Web Audio API](http://www.html5rocks.com/en/tutorials/webaudio/intro/)
-- [14 essential JavaScript audio libraries for web developers](http://codecall.net/2014/01/29/14-essential-javascript-audio-libraries-for-web-developers/)
-- [Learning Web Audio API](http://blog.sonoport.com/post/120993888887/learningwebaudioapi)
-- [Fun with Web Audio API](http://codepen.io/DonKarlssonSan/post/fun-with-web-audio-api)
-- [The Audio Processing Dog House](https://www.objc.io/issues/24-audio/audio-dog-house/)
-- [Web Audio School](http://mmckegg.github.io/web-audio-school/)
-- [Audio visualisation with the web audio api](http://fourthof5.com/audio-visualisation-with-the-web-audio-api)
-- [Make Your Browser Dance](https://24ways.org/2013/make-your-browser-dance/)
-- [Audio Visualization with Web Audio and Three.js](http://raathigesh.com/Audio-Visualization-with-Web-Audio-and-ThreeJS/)
-- [Applying Web Audio API with the HTML5 Canvas Element - Part I](https://sonoport.github.io/web-audio-and-canva-partI.html)
-- [Applying Web Audio API with the HTML5 Canvas Element - Part II](https://sonoport.github.io/web-audio-and-canva-partII.html)
-- [Real-time analysis of streaming audio data with Web Audio API](http://ianreah.com/2013/02/28/Real-time-analysis-of-streaming-audio-data-with-Web-Audio-API.html)
-- [Syncing CSS Animations with HTML5 Audio](http://www.sitepoint.com/syncing-css-animations-with-html5-audio/)
-- [Javascript Systems Music - Learning Web Audio by Recreating The Works of Steve Reich and Brian Eno](http://teropa.info/blog/2016/07/28/javascript-systems-music.html)
-- [Creative Audio Visualizers](https://tympanus.net/codrops/2018/03/06/creative-audio-visualizers/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+tympanus+%28Codrops%29)
-- [Recreating legendary 8-bit games music with Web Audio API](https://codepen.io/gregh/post/recreating-legendary-8-bit-games-music-with-web-audio-api)
+- [Kadenze - Courses about Sound and Creative Process](https://www.kadenze.com/courses) - A platform offering courses in art, music, and creative technology, including topics like sound design and creative programming.
+- [MDN - Basic concepts behind Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Basic_concepts_behind_Web_Audio_API) - An introduction to the basic concepts and usage of the Web Audio API.
+- [Understanding AudioParams: Precision control of web audio nodes](http://www.soundesign.info/2016/02/07/understanding-audioparams-precision-control-web-audio-nodes/) - A tutorial on using AudioParams to precisely control Web Audio nodes.
+- [Making An Interactive Music Video With WebGL](https://medium.com/@superhighfives/making-a-music-video-f60757ceb4cf#.j72rbcxgk) - A tutorial on creating an interactive music video with WebGL and Web Audio.
+- [Exploring the web audio api with d3](http://blog.scottlogic.com/2016/01/06/audio-api-with-d3.html) - A tutorial on using the Web Audio API with D3.js for data visualization.
+- [Getting Started with Web Audio API](https://www.html5rocks.com/en/tutorials/webaudio/intro/) - A comprehensive introduction to the Web Audio API by Boris Smus.
+- [Learning Web Audio API](http://blog.sonoport.com/post/120993888887/learningwebaudioapi) - A series of tutorials on the Web Audio API.
+- [Fun with Web Audio API](http://codepen.io/DonKarlssonSan/post/fun-with-web-audio-api) - A blog post with several fun examples of the Web Audio API.
+- [The Audio Processing Dog House](https://www.objc.io/issues/24-audio/audio-dog-house/) - A deep dive into digital signal processing.
+- [Web Audio School](https://github.com/mmckegg/web-audio-school) - A series of self-guided workshops introducing the Web Audio API with a focus on music.
+- [Make Your Browser Dance](https://24ways.org/2013/make-your-browser-dance/) - A tutorial on creating a music visualizer with the Web Audio API.
+- [Audio Visualization with Web Audio and Three.js](http://raathigesh.com/Audio-Visualization-with-Web-Audio-and-ThreeJS/) - A tutorial on creating audio visualizations with Three.js.
+- [Applying Web Audio API with the HTML5 Canvas Element - Part I](https://sonoport.github.io/web-audio-and-canva-partI.html) - A tutorial on using the Web Audio API with the Canvas API.
+- [Applying Web Audio API with the HTML5 Canvas Element - Part II](https://sonoport.github.io/web-audio-and-canva-partII.html) - The second part of the tutorial on using the Web Audio API with the Canvas API.
+- [Real-time analysis of streaming audio data with Web Audio API](http://ianreah.com/2013/02/28/Real-time-analysis-of-streaming-audio-data-with-Web-Audio-API.html) - A tutorial on real-time analysis of streaming audio data.
+- [Syncing CSS Animations with HTML5 Audio](http://www.sitepoint.com/syncing-css-animations-with-html5-audio/) - A tutorial on syncing CSS animations with HTML5 audio.
+- [Javascript Systems Music - Learning Web Audio by Recreating The Works of Steve Reich and Brian Eno](http://teropa.info/blog/2016/07/28/javascript-systems-music.html) - An in-depth tutorial on creating generative music using the Web Audio API by recreating the works of Steve Reich and Brian Eno.
+- [Creative Audio Visualizers](https://tympanus.net/codrops/2018/03/06/creative-audio-visualizers/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+tympanus+%28Codrops%29) - A tutorial on creating creative audio visualizers with Three.js.
+- [Recreating legendary 8-bit games music with Web Audio API](https://codepen.io/gregh/post/recreating-legendary-8-bit-games-music-with-web-audio-api) - A tutorial on recreating 8-bit game music with the Web Audio API.
 
 ## Videos
 
-- [Matt McKegg: I Play The JavaScript - JSConf.Asia 2015](https://www.youtube.com/watch?v=NL0nb8A8FDM)
-- [Chris Lowis: A Brief History of Synthesis with the Web Audio API](https://www.youtube.com/watch?v=d8TCq0xLnV4)
-- [Introducing the Web Audio API](https://www.youtube.com/watch?v=_ZUhicr-R-g)
-- [CorkDev.IO - HTML 5 Web Audio API](https://www.youtube.com/watch?v=vIKijPAW9Js)
-- [Steve Kinney: Building a musical instrument with the Web Audio API | JSConf US 2015](https://www.youtube.com/watch?v=56spBAgOYfg)
-- [Making the Web Rock: The Web Audio API](https://www.youtube.com/watch?v=wZrNI-86zYI)
-- [Jordan Santell: Signal Processing with the Web Audio API - JSConf2014](https://www.youtube.com/watch?v=YBQ5pzvgbOE)
-- [Making waves using the Web Audio API](https://www.youtube.com/watch?v=oHBx_kMmsRE)
-- [Stuart Memo: JavaScript is the new Punk Rock](https://www.youtube.com/watch?v=PN8Eg1K9xjE)
-- [Jan Krutisch: JavaScript Patterns For Contemporary Dance Music -- JSConf EU 2013](https://www.youtube.com/watch?v=X41IwSyU-BM)
-- [Charlie Roberts: Gibbering at Algoraves - JS in Live Audiovisual Performances - JSConf.Asia 2014](https://www.youtube.com/watch?v=2BIOINFSbMg)
-- [Lauren McCarthy: Learning while making p5js](https://www.youtube.com/watch?v=1k3X4DLDHdc)
-- [Interactive Music with Tone.js](http://medias.ircam.fr/x9d4352)
-- [Web Audio API vs Native: Closing the Gap](http://medias.ircam.fr/x2af2f6)
-- [BRAID: A Web Audio Instrument Builder with Embedded Code Blocks](http://medias.ircam.fr/xa87b09)
-- [Web Audio Tools](http://medias.ircam.fr/x32ba00)
+- [Matt McKegg: I Play The JavaScript - JSConf.Asia 2015](https://www.youtube.com/watch?v=NL0nb8A8FDM) - A talk by Matt McKegg at JSConf.Asia 2015, where he demonstrates how he uses JavaScript, Web Audio, MIDI, and Electron to power his live electronic music performances.
+- [Chris Lowis: A Brief History of Synthesis with the Web Audio API](https://www.youtube.com/watch?v=d8TCq0xLnV4) - A talk by Chris Lowis that takes you through the history of synthesis, from the Theremin to the MiniMoog. It explores the technology and theory of music synthesis, and demonstrates how to create your own sounds using the Web Audio API.
+- [Making the Web Rock: The Web Audio API](https://webaudiodemos.appspot.com/slides/) - A slide deck by Chris Wilson that provides an introduction to the Web Audio API, covering its core concepts, use cases, and code examples for loading, playing, and scheduling sounds.
+- [Signal Processing with the Web Audio API](https://jsantell.com/jsconf-2014-dsp-web-audio/) - Slides from a talk by Jordan Santell at JSConf 2014 about real-time audio signal processing in the browser using the Web Audio API.
+- [Making waves using the Web Audio API](https://www.youtube.com/watch?v=oHBx_kMmsRE) - A short demo by Stuart Memo on how to create audio by generating sine, square, sawtooth, and triangle waves using the Web Audio API.
+- [Stuart Memo: JavaScript is the new Punk Rock](https://www.youtube.com/watch?v=PN8Eg1K9xjE) - A talk by Stuart Memo at JSConf EU where he argues that JavaScript is the new Punk Rock. He demonstrates how JavaScript and the Web Audio API can be used to write and perform music, and discusses why this is the future of music.
+- [Charlie Roberts: Gibbering at Algoraves - JS in Live Audiovisual Performances](https://2014.jsconf.asia/) - A talk from JSConf.Asia 2014 by Charlie Roberts about Gibber, a creative coding environment in JavaScript for live coding audiovisual performances. The talk explores the concept of "algoraves," where performers improvise music by coding in front of an audience.
+- [Interactive Music with Tone.js](https://wac.ircam.fr/pdf/wac15_submission_40.pdf) - A paper by Yotam Mann that discusses the features, architecture, and implementation of Tone.js, a Web Audio framework for creating interactive music in the browser.
+- [Web Audio API vs Native: Closing the Gap](https://padenot.github.io/wac-14-keynote/) - A keynote presentation by Paul Adenot from the 2015 Web Audio Conference that compares the Web Audio API to native audio development. The talk discusses the strengths and weaknesses of the Web Audio API and what is needed to make it more competitive with native audio.
+- [BRAID: A Web Audio Instrument Builder with Embedded Code Blocks](https://wac.ircam.fr/pdf/wac15_submission_33.pdf) - A paper by Ben Taylor and Jesse Allison that describes Braid (Browser Audio Interface and Database), a web audio instrument-building environment developed with the NexusUI platform. The paper discusses the design and workflow of building browser-based instruments within Braid.
+- [Web Audio Tools](https://medias.ircam.fr/x32ba00) - A talk by Jordan Santell at the 2015 Web Audio Conference about the state of web audio tooling. The talk explores browser developer tools and cross-browser libraries for introspecting the state of an audio context and nodes, covering common debugging scenarios.
 - [HTML5DevConf: Jordan Santell, "Browser Dance Party: Visualizing Audio with the Web Audio API"](https://www.youtube.com/watch?v=TdgBAhGmoH4)
-- [Praveen Kumar - MIDI.js](https://www.youtube.com/watch?v=xw86fXq2cKM)
-- [Mathieu 'p01' Henri: Making Realtime Audio-Visuals - JSConf.Asia 2015](https://www.youtube.com/watch?v=16oLi1kvLHs)
-- [Paul Adenot: Elements of Dance Music - JSConf.Asia 2015](https://www.youtube.com/watch?v=Ww0jTafmd_w)
-- [8-bit Music Theory](https://www.youtube.com/channel/UCeZLO2VgbZHeDcongKzzfOw)
+- [Praveen Kumar - MIDI.js](https://www.youtube.com/watch?v=xw86fXq2cKM) - A video in which Praveen Kumar demonstrates the MIDI.js library and some of the applications built with it.
+- [Mathieu 'p01' Henri: Making Realtime Audio-Visuals](https://2015.jsconf.asia/) - A talk from JSConf.Asia 2015 by Mathieu 'p01' Henri about creative coding and the demoscene. The talk covers how to build realtime audio-visual demos and provides a range of optimization tricks.
+- [Paul Adenot: Elements of Dance Music - JSConf.Asia 2015](https://www.youtube.com/watch?v=Ww0jTafmd_w) - A talk from JSConf.Asia 2015 by Paul Adenot that deconstructs an acid techno track and demonstrates how to synthesize its sounds from scratch using the Web Audio API, focusing on timbre, synthesis techniques, filtering, and effects.
+- [8-bit Music Theory](https://www.youtube.com/channel/UCeZLO2VgbZHeDcongKzzfOw) - A YouTube channel dedicated to analyzing video game music. It explores the music theory behind classic and modern video game soundtracks.
 
 ## Contributing
 
